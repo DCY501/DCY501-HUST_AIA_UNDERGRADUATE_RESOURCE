@@ -1,2 +1,2 @@
 # DCY501-HUST_AIA_UNDERGRADUATE_RESOURCE
-23界华科AIA本科人工智能专业的部分实验课设资料
+23届华科AIA本科人工智能专业的部分实验课设资料
