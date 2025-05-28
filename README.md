@@ -1,2 +1,2 @@
 # DCY501-HUST_AIA_UNDERGRADUATE_RESOURCE
-记录本人在华科AIA本科人工智能专业的渡劫资料
+23界华科AIA本科人工智能专业的部分实验课设资料
